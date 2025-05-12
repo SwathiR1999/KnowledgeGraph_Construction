@@ -22,7 +22,7 @@ This project demonstrates how to **automatically construct a semantic knowledge 
 - HuggingFace Transformers – `intfloat/e5-base-v2` for semantic embeddings
 - Neo4j – graph database for storing and exploring the knowledge graph
 
-## 📷 Demo
+## Demo
 
 Here's a preview of the extracted knowledge graph in Neo4j:
 
